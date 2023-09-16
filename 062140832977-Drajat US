@@ -1,0 +1,27 @@
+    -Kelebihan PHP versi 7 hingga yang terbaru :
++ Kinerja yang Lebih Baik: PHP 7 dan versi-versi berikutnya menghadirkan peningkatan signifikan dalam kinerja dibandingkan dengan versi-versi sebelumnya
++ Penanganan Error yang Lebih Baik
++ Fitur Baru
++ Dukungan Aktif
++ Kompatibilitas Mundur
+
+    -Kekurangan PHP versi 7 hingga yang terbaru :
++ Kode Terdahulu
++ Keterbatasan dalam Manajemen Memori
++ Sintaks yang Rumit
++ Keamanan
++ Dukungan Resmi
+
+    -Kelebihan PHP versi 8 hingga yang terbaru :
++ Kinerja yang Lebih Baik
++ Fitur-fitur Baru
+
++ Nullsafe Operator
++ Union Types
++ Fitur-fitur Deprecated dan Dihapus
+
+    -Kekurangan PHP versi 8 hingga yang terbaru :
++ Kecocokan dengan Kode Lama
++ Ketersediaan Ekstensi
++ Perubahan Siklus Hidup
++ Belum Teruji dengan Luas
